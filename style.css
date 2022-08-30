@@ -1,0 +1,142 @@
+#container{
+     text-align:center;
+}
+
+body{
+    background-color:rgba(8, 248, 8, 0.897);
+}
+
+.button1{
+    background-color:rgba(8, 248, 8, 0.897);
+    border-left: 400px;
+    border-radius: 180%;
+    padding:0px;
+    margin: 5px 0 0 10px;
+}
+
+.topo{
+  margin-top: 5px;
+  margin: auto;
+  width: 20px;
+  font-size: 20px;
+  font-family: 'Maven Pro', sans-serif;
+}
+
+.linha1{
+    border-bottom: 1px rgba(127, 131, 136, 0.411);
+    width: 100%;
+    margin-bottom:5px;
+}
+
+img{
+    object-fit: cover;
+    border-radius: 100%;
+    float:center;
+    text-align: center; 
+    margin-top: 20px; 
+}
+
+h1{
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Exo 2', sans-serif;
+    padding-top: 25px
+}
+
+p{
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+    color: rgb(105, 104, 104);
+}
+
+input{
+  background-color: transparent;
+  border: transparent;
+  outline:0;
+  box-shadow: 0 0 0 0 ;
+  margin:30px 0 0 140px;
+  width: 300px;
+}
+
+.linha2{
+    border-bottom: 1px rgb(105, 104, 104);;
+    width: 320px;
+}
+
+.button2{
+    background-color: transparent;
+    border: transparent;
+    outline: 0;
+    font-family: 'Maven Pro', sans-serif;
+    color: rgb(59, 58, 58);
+}
+
+.centro1{
+    margin: auto;
+    width: 600px;
+}
+.centro2{
+    margin:0 auto;
+    width: 150px;
+} 
+
+.button3{
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    width: 330px;
+    padding: 20px;
+    border-radius: 10px;
+    font-family: 'Maven Pro', sans-serif;
+}
+
+.centro3{
+  text-align: center;
+  margin-top: 20px;
+}
+
+::placeholder{
+    color:rgb(59, 58, 58);
+    font-family:'Maven Pro', sans-serif;
+    font-size:15px;
+}
+
+.flex-container{
+    display:flex;
+    flex-direction: row;
+    justify-content:center;
+    margin-top: 50px;
+   
+}
+
+.item1{
+   border:1px solid rgb(59, 58, 58);
+   border-radius: 4px;
+   padding:10px;  
+   margin-right:10px;
+   width: 70px;
+   font-size: 12px;
+   text-align: center;
+   font-family: 'Maven Pro', sans-serif; 
+}
+
+.item2{
+  border: 1px solid rgb(59, 58, 58);
+  border-radius: 4px;
+  padding:10px;
+  margin-right:10px;
+  width: 70px;
+  font-size: 12px;
+  text-align: center;
+  font-family: 'Maven Pro', sans-serif;  
+}
+
+.item3{
+   border: 1px solid rgb(59, 58, 58);
+   border-radius: 4px;
+   padding:10px; 
+   width: 70px;
+   font-size: 12px;
+   text-align: center;
+   font-family: 'Maven Pro', sans-serif;  
+}

@@ -5,7 +5,6 @@
 #### :bookmark: 
  Desenvolvido com base na interface de login do aplicativo Next (banco digital do Bradesco).
  
-
  <img src="https://user-images.githubusercontent.com/107075512/187943883-18ad4810-6d3f-4fbc-aa96-ef7f47fba286.gif">
    
   

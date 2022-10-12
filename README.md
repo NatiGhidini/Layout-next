@@ -22,7 +22,7 @@
 
  ```bash
  # Entrando no repositório
- $ cd Projeto-Git.Github
+ $ cd Layout-next
  ```
 
  ```bash
